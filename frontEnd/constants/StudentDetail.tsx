@@ -1,0 +1,2 @@
+export const StudentDetails_ADDRESS =
+  "0x4940c03894f8C2168077043AA8AC93274038fe49";
